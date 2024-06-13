@@ -32,6 +32,9 @@
     "categories": {
       "auth": {
         "blogc8628632": {}
+      },
+      "api": {
+        "blog": {}
       }
     }
   }
